@@ -29,11 +29,10 @@ async def _human_time_duration(seconds):
     return ", ".join(parts)
 
 
-@Client.on_message(command("start") & filters.private & ~filters.edited)
-async def start_(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"https://telegra.ph/file/51da3e99d95a698d55ca5.jpg",
-        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
+@Client.on_message(other_filters2)
+async def start(_, message: Message):
+        await message.reply_text(
+        f"""**Hey, I'm {bn} 🎀
 I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ 𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯.
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!**
         """,
