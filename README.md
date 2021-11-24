@@ -31,8 +31,9 @@ The easiest way to deploy this Bot is via Heroku.
 
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️★𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯★🇮🇳⃝🕊️](https://t.me/Social_Friends_Club) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+- [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/operamusicsupport) creator
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/Social_Friends_Club"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superiour_x_Server"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
 
