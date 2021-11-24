@@ -24,8 +24,11 @@ The easiest way to deploy this Bot is via Heroku.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Sumit9969/SenoritaMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+
 ## ✨ 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 ✨
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Sumit9969/PyrogramStringSession)
+
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@AryanVerma14/Operamusicsstringsession#main.py)
+
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 - [🕊️★𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯★🇮🇳⃝🕊️](https://t.me/Social_Friends_Club) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
